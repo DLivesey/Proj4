@@ -1,6 +1,5 @@
 Win32/
 __history/
-*.*.local
+*.local
 *.res
 *.stat
-*.cbproj
